@@ -18,4 +18,6 @@ pip install ipywidgets pandas scikit-learn
 
 3. Ensure you have the necessary dataset files: `movies.csv` and `ratings.csv`.
 
+# https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
 4. Modify the paths in the code to point to your dataset files.
